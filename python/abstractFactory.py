@@ -59,3 +59,6 @@ class SqlFactory(IFactory):
         return user
 
 if __name__ == "__main__":
+        ac = AccessFactory()
+        caccess = ac.CreateDepartment()
+        caccess.GetDepartment()
