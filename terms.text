@@ -4,7 +4,7 @@
 4 Factory Method 工厂方法模式  1
 5 Prototype 原型模式           1
 6 Adapter 适配器模式  1
-7 Bridge 桥接模式 
+7 Bridge 桥接模式 1
 8 Composite 组合模式
 9 Decorator 装饰模式 1
 10 Facade 外观模式 1
@@ -13,7 +13,7 @@
 13 Template Methed模板方法 1
 14 Command 命令模式 1
 15 Interpreter 解释器模式
-16 Mediator 中介者模式
+16 Mediator 中介者模式 1
 17 Iterator 迭代器模式 1
 18 Observer 观察者模式 1
 19 Chain Of Responsibility 职责链模式 1
