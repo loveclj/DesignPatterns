@@ -6,7 +6,7 @@
 #define PATTERN_DESIGN_TEST_HPP
 
 /**
- * 创建型模式
+ * 创建型模式 6
  */
 void test_singleton();
 void test_simple_factory();
@@ -17,7 +17,7 @@ void test_builder();
 
 
 /**
- * 结构型模式
+ * 结构型模式 7
  */
 
 void test_facade();
@@ -25,6 +25,8 @@ void test_proxy();
 void test_adapter();
 void test_decorator();
 void test_bridge();
+void test_composite();
+void test_flyweight();
 
 
 #endif //PATTERN_DESIGN_TEST_HPP

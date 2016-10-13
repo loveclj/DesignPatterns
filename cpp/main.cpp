@@ -19,8 +19,9 @@ int main() {
 //    test_proxy();
 //    test_adapter();
 //    test_decorator();
-    test_bridge();
-
+//    test_bridge();
+//    test_composite();
+    test_flyweight();
     return 0;
 
 }

@@ -34,6 +34,8 @@ set(SOURCE_FILES main.cpp
 
         bridge/Bridge.hpp
 
+        composite/Composite.hpp
+
         test/test.hpp
         test/test_simple_factory.cpp
         test/test_singleton.cpp
@@ -46,6 +48,8 @@ set(SOURCE_FILES main.cpp
         test/test_adapter.cpp
         test/test_decorator.cpp
         test/test_bridge.cpp
+        test/test_composite.cpp
+        test/test_flyweight.cpp
 
         )
 
