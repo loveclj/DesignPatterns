@@ -36,6 +36,10 @@ set(SOURCE_FILES main.cpp
 
         composite/Composite.hpp
 
+        strategy/Strategy.hpp
+
+        template/Template.hpp
+
         test/test.hpp
         test/test_simple_factory.cpp
         test/test_singleton.cpp
@@ -50,7 +54,8 @@ set(SOURCE_FILES main.cpp
         test/test_bridge.cpp
         test/test_composite.cpp
         test/test_flyweight.cpp
-
-        )
+        test/test_strategy.cpp
+        test/test_template.cpp
+        test/test_template.cpp)
 
 add_executable(pattern_design ${SOURCE_FILES})

@@ -29,4 +29,12 @@ void test_composite();
 void test_flyweight();
 
 
+/**
+ * 行为模式11
+ */
+
+void test_strategy();
+void test_template();
+
+
 #endif //PATTERN_DESIGN_TEST_HPP

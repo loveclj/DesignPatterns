@@ -21,7 +21,9 @@ int main() {
 //    test_decorator();
 //    test_bridge();
 //    test_composite();
-    test_flyweight();
+//    test_flyweight();
+//    test_strategy();
+    test_template();
     return 0;
 
 }
