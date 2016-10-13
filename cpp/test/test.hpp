@@ -15,11 +15,16 @@ void test_abstract_factory();
 void test_prototype();
 void test_builder();
 
+
 /**
  * 结构型模式
  */
 
 void test_facade();
+void test_proxy();
+void test_adapter();
+void test_decorator();
+void test_bridge();
 
 
 #endif //PATTERN_DESIGN_TEST_HPP

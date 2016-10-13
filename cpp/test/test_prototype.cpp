@@ -2,7 +2,7 @@
 // Created by clj on 2016/10/12.
 //
 
-#include "../prototype/prototype.hpp"
+#include "../prototype/Prototype.hpp"
 
 #include "test.hpp"
 #include <unistd.h>
